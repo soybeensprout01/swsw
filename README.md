@@ -11,7 +11,7 @@
 > * T(time+순으로 정렬)
 > 이 있다.
 
-![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRZup6%2FbtrI8QMZboA%2FPFgF1f7UT6aoXk95dZgnLK%2Fimg.png]
+![top예시]https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRZup6%2FbtrI8QMZboA%2FPFgF1f7UT6aoXk95dZgnLK%2Fimg.png
 
 ### 리눅스 명령어: ps
 ##### ps명령어는 현재 실행 중인 프로세스의 정보를 제공한다.
@@ -19,7 +19,7 @@
 > ps 명령어를 통해 시스템 리소스를 소비하는 프로세스를 식별하고, 필요한 경우 관련 프로세스를 종료하거나 조정 가능하다.
 > ps 명령어와 grep을 조합하면 특정 프로세스의 정보를 쉽게 검색할 수 있다. 이 방법은 시싀템에서 특정 프로세스의 상태를 모니터링하는 데 유용하다.
 
-![https://bluesharehub.com/wp-content/uploads/2023/11/image-131.png]
+![ps예시]https://bluesharehub.com/wp-content/uploads/2023/11/image-131.png
 
 ### 리눅스 명령어: jobs
 ##### jobs 명령어는 현제 세션의 작업 상태를 출력한다.
@@ -28,7 +28,7 @@
 > running은 진행중임을 뜻하고, done은 종료되고 0을 반환했음을, done(code)는 완료되었으나 0이 아닌 코드를 반환했음음 의미한다. 
 > 이 외에도 다른 상태들이 존재한다.
 
-![https://dbscthumb-phinf.pstatic.net/4938_000_1/20170710154910976_RX87MMBQ3.jpg/ka38_149_i2.jpg?type=w575_fst_n&wm=Y]
+![jobs예시]https://dbscthumb-phinf.pstatic.net/4938_000_1/20170710154910976_RX87MMBQ3.jpg/ka38_149_i2.jpg?type=w575_fst_n&wm=Y
 
 ### 리눅스 명령어: kill
 ##### kill 명령어는 프로세스를 종료시킨다.
@@ -38,4 +38,4 @@
 >  > * -1,: -HUP 프로세스를 재활성화한다.
 >  > * -9: 프로세스를 강제로 종료시킨다.
 
-![https://dbscthumb-phinf.pstatic.net/4938_000_1/20170705204102763_BIV3YDDFB.jpg/ka38_154_i2.jpg?type=w575_fst_n&wm=Y]
+![kill예시]https://dbscthumb-phinf.pstatic.net/4938_000_1/20170705204102763_BIV3YDDFB.jpg/ka38_154_i2.jpg?type=w575_fst_n&wm=Y
