@@ -19,7 +19,7 @@
 > ps 명령어를 통해 시스템 리소스를 소비하는 프로세스를 식별하고, 필요한 경우 관련 프로세스를 종료하거나 조정 가능하다.
 > ps 명령어와 grep을 조합하면 특정 프로세스의 정보를 쉽게 검색할 수 있다. 이 방법은 시싀템에서 특정 프로세스의 상태를 모니터링하는 데 유용하다.
 
-1[ps예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRZup6%2FbtrI8QMZboA%2FPFgF1f7UT6aoXk95dZgnLK%2Fimg.png)
+![ps예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRZup6%2FbtrI8QMZboA%2FPFgF1f7UT6aoXk95dZgnLK%2Fimg.png)
 
 ### 리눅스 명령어: jobs
 ##### jobs 명령어는 현제 세션의 작업 상태를 출력한다.
