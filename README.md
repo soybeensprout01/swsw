@@ -52,9 +52,15 @@
 3. ㅁㄴ러미나ㅓㅍ미
 4. ㅁㅇ
 
-'
-#include<time.h>
-'
+'''c
+#include<stdio.h>
+
+int main(){
+ printf("Hello World!");
+ 
+ return 0;
+}
+'''
 
 * 하나
   * 둘
