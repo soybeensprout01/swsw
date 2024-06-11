@@ -52,7 +52,9 @@
 3. ㅁㄴ러미나ㅓㅍ미
 4. ㅁㅇ
 
-'#include<time.h>'
+'
+#include<time.h>
+'
 
 * 하나
   * 둘
