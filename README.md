@@ -4,11 +4,11 @@
 
 ### 리눅스 명령어: top
 ##### 아무 옵션도 주지 않은 top 입력 시 상단과 하단의 두 개의 영역으로 구분되어 내용이 표시된다. 상단에는 시스템에 대한 전반적인 요약 정보가, 하단에는 프로세스별 구체적인 정보가 표기된다. 정보는 3초마다 업데이트된다.
-> top 정렬을 위한 명령어에는
+>> top 정렬을 위한 명령어에는
 > * P(%cpu순으로 정렬)
 > * M(%mem순으로 정렬)
 > * N(pid순으로 정렬)
-> * * T(time+순으로 정렬)
+> * T(time+순으로 정렬)
 이 있다.
 
 ![top예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRZup6%2FbtrI8QMZboA%2FPFgF1f7UT6aoXk95dZgnLK%2Fimg.png)
